@@ -8,11 +8,16 @@
 This repository contains a compilation of laboratory activities developed using the Laravel Framework. It demonstrates progress from basic Blade templating to advanced system integration, including CRUD operations, Form Validation, and API Consumption.
 
 ---
+## APPLICATION DEVELOPMENT
 
-## 📂 List of Activities
+### Activity 1: Emerging Technologies Exploration
+- **Description:** A blockchain is a digital record that stores data in blocks that are linked together in a chain. Once a block is added, it cannot be easily changed without everyone noticing. Many computers keep a copy of the chain, so no single person controls it and the information stays open and trustworthy..
 
-### Activity 1: Laravel Installation & Environment Setup
-- **Description:** Setting up the Laravel development environment, configuring the .env file, and understanding the basic directory structure of a Laravel project.
+### Activity 2: UML DIAGRAM DESIGN PROJECT
+
+- **Description:** The Boarding House Management System is a digital solution designed to improve the efficiency of managing boarding house operations. Currently, the boarding house relies on manual record-keeping, which leads to problems such as lost tenant information, difficulty in tracking payments, delayed maintenance responses, and confusion in room availability. These issues result in poor management and inconvenience for both the administrator and tenants
+
+## 📂 SIA 2
 
 ### Activity 2: Retro Sneaker System (Blade Templating)
 - **Description:** A custom system featuring a collection of rare sneakers. This activity focuses on Blade layout inheritance (`@extends`, `@yield`), passing data from controllers to views, and creating a functional List-to-Detail navigation.
