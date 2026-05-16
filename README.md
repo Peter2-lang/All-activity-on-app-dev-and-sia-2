@@ -19,6 +19,17 @@ This repository contains a compilation of laboratory activities developed using 
 
 ## 📂 SIA 2
 
+### Activity 1: Project 
+-** Boarding House Management System
+
+The Boarding House Management System is a digital system designed to improve the daily operations of a boarding house. Instead of using paper records and manual tracking, the system centralizes important information such as tenant details, room availability, payments, and maintenance requests into one organized platform.
+
+The project was created to solve common problems experienced in manual management, including difficulty tracking unpaid balances, delayed maintenance responses, and confusion in monitoring available rooms. By automating these processes, the system helps the boarding house owner manage operations more efficiently and reduce errors.
+
+The system has two main users: the Administrator and the Tenant. The Administrator is responsible for managing tenants, assigning rooms, recording payments, handling maintenance concerns, and generating reports. Tenants can use the system to check their payment status and submit repair or maintenance requests.
+
+The main objective of the project is to provide a faster, more accurate, and organized management process. It also improves communication between the owner and tenants while helping maintain proper records and reports for the boarding house.
+
 ### Activity 2: Retro Sneaker System (Blade Templating)
 - **Description:** A custom system featuring a collection of rare sneakers. This activity focuses on Blade layout inheritance (`@extends`, `@yield`), passing data from controllers to views, and creating a functional List-to-Detail navigation.
 
