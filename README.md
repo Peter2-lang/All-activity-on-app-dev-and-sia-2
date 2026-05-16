@@ -19,7 +19,7 @@ This repository contains a compilation of laboratory activities developed using 
 
 ## 📂 SIA 2
 
-### Activity 1: Project 
+### Activity : Project  UML Final Project – Title & Design Proposal
 -** Boarding House Management System
 
 The Boarding House Management System is a digital system designed to improve the daily operations of a boarding house. Instead of using paper records and manual tracking, the system centralizes important information such as tenant details, room availability, payments, and maintenance requests into one organized platform.
